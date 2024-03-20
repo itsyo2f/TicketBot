@@ -8,8 +8,9 @@ const { REST } = require('@discordjs/rest');
 const { Routes } = require('discord-api-types/v9');
 const path = require('path')
 const fs = require('fs')
+/*
 const { prefix } = require("./Configs/config.json");
-
+*/
 const { request } = require('undici');
 
 const { keep } = require('./keep');
