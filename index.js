@@ -30,8 +30,6 @@ client.on('ready', () => {
 
 
 
-
-
 /*
 ////CMD LAUNCHER
 if (interaction.commandName === "") {
